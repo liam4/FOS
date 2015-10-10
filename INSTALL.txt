@@ -1,0 +1,33 @@
+HOW TO INSTALL FOS
+
+step 1, download the FOSInstall file from whco.ga
+step 2, download python 2.7.10 from python.org and install it
+step 3, this is the hard part, get an empty usb and make it have drive letter F:/
+step 4, run FOSInstall
+step 5, follow the steps on the screen
+step 6, go to optc in F:/Term/setup
+step 7, follow the steps on screen
+step 8, run the cmd2.py file in F:/Term/cmdrun
+step 9, follow the steps on the screen
+step 10, run the help command and follow the steps
+step 11, report bugs at whco.ga
+
+HOW TO USE IN GENERAL:
+
+step 1, if you haven't installed fos, go to how to install fos
+step 2, go to F:/Term/cmdrun
+step 3, run cmd2.py
+step 4, report bugs at whco.ga
+
+HOW TO UPDATE:
+
+step 1, if you haven't done how to install fos, do so now
+step 2, do step 6 of how to install
+step 3, get to the command entery
+step 4, enter the command update
+step 5, follow the steps*
+*Reboot will be required after the install
+
+HOW TO ERASE:
+
+we are getting ready for this
