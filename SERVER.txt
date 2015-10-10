@@ -1,3 +1,4 @@
 This file contains information of what we do to our server whco.ga
 DATE          TYPE        INFO
 10/10/15 - Update - Added update to server
+10/10/15 - Update - Added update to server
