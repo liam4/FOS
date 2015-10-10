@@ -1,3 +1,4 @@
+#Creates system prefrences
 f = open('RECOVERY.txt', 'w+')
 f.close ()
 f = open('RECOVERY.txt', 'w+')

@@ -13,6 +13,6 @@ def erase ():
         print "Erasing all libraries and data. Entering recovery mode"
     import boot
 def recover ():
-        print "RECOVERY MODE"
-        print "Running Recovery Scripts. Generating the system file may take a little while"
-        execfile ("F:/RECOVERY/SYS.SET/BOOT.py")
+    print "RECOVERY MODE"
+    print "Running Recovery Scripts. Generating the system file may take a little while"
+    execfile ("F:/RECOVERY/SYS.SET/BOOT.py")

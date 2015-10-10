@@ -1,6 +1,11 @@
 FOS OFFICIAL CHANGEOG
 WHATEVER IS ON THIS LOG IS IN THE RELEASE
 
+B46:assistant run file made
+B45:recovery bug fix
+B44:recovery cleanup
+B43:boot cleanup
+B42:boot bug fix
 B41:added website links
 B40:added credits command
 B39:changed catfish command

@@ -5,4 +5,4 @@ print "MY DIRECTORY IS F:/RECOVERY/SYS.SET"
 print "DONE PREPARING. ENTER A COMMAND"
 while True:
     print "F:/>"
-    CMD = raw_input ("F:/>"
+    CMD = raw_input ("F:/>")

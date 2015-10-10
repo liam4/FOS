@@ -1,7 +1,7 @@
 import os
 os.chdir ("F:/Term/cmdrun/cmd2.py")
 import fosrun
-print "FOSLAUNCHER VERSION 0.1"
+print "FOSLAUNCHER"
 print "PLEASE ENTER A LETTER FOR THE OPTION YOU WANT"
 import time
 time.sleep(1)
