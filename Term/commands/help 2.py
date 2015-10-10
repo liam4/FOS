@@ -1,0 +1,5 @@
+print "PAGE 2: BETA COMMANDS"
+print ""
+print "lolno"
+print ""
+print "*a launcher will execute 1 or more other questions"

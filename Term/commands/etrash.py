@@ -1,0 +1,2 @@
+import FPKGtrash
+FPKGtrash.cls ()
