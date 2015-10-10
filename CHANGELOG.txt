@@ -1,0 +1,46 @@
+FOS OFFICIAL CHANGEOG
+WHATEVER IS ON THIS LOG IS IN THE RELEASE
+
+B41:added website links
+B40:added credits command
+B39:changed catfish command
+B38:Empty Trash system command etrash
+B37:Trash command works!
+B36:attempted to fix bugs in delete command (FAILED)
+B35:delete command added
+B34:Recovery install bug fix
+B33:Made RECOVERY able to work in update and FOSinstall
+B32:Fixed Recovery bug
+B31:Worked on Reconvery mode
+B30:Recovery mode part of B25, this is for resets and developers
+B29:added delete user system
+B28:added create user system
+B27:added user setup system
+B26:added user system
+B25:made a new default launcher (IN TESTING)
+B24:Updater crash fix
+B23:New logging file format
+B22:mak=de a new installation system
+B21:Made shutdown have 1 printed line
+B20:moved around stuff
+B19:moved around the stopping system
+B18:fixed spelling error :/
+B17:Only 1 file downloaded in install
+B16:run.py now useless
+B15:saving bug fix
+B14:moved where logs are stored
+B13:fixed logging bug
+B12:added feature to logging system
+B11:fixed cmd system logging bug
+B10:fixed exit system
+B9:made new logging system
+B8:made new bootup system
+B7:Provided changelog and how to install into the install package
+B6:Better Logging look
+B5:Fixed launching bug
+B4:Moved Logging folder (Logs don't delete on updates!)
+B3:Doesn't crash on log
+B2:Logs data
+B1:New launcher
+
+ANYTHING BEFORE THIS WAS FOR UNOFFICIAL TESTING
