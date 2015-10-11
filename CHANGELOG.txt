@@ -1,6 +1,8 @@
 FOS OFFICIAL CHANGEOG
 WHATEVER IS ON THIS LOG IS IN THE RELEASE
 
+B49:syntax error fix
+B48:spelling error
 B47:deleted 2 unneeded files
 B46:assistant run file made
 B45:recovery bug fix

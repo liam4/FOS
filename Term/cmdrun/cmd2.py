@@ -1,5 +1,5 @@
 print "Website: http://whco.ga"
-print "GutHub: https://github.com/WHCO/FOS
+print "GitHub: https://github.com/WHCO/FOS"
 print "Importing... This could take a while!"
 import ctypes
 ctypes.windll.user32.MessageBoxA(0, "FOS has many bugs! Please report them at whco.ga", "FOS Notification", 1)
