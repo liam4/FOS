@@ -15,4 +15,4 @@ def erase ():
 def recover ():
     print "RECOVERY MODE"
     print "Running Recovery Scripts. Generating the system file may take a little while"
-    execfile ("F:/RECOVERY/SYS.SET/BOOT.py")
+    execfile ("F:/RECOVERY/SYS.SET/ERASE.py")

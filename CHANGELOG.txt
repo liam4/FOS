@@ -1,6 +1,7 @@
 FOS OFFICIAL CHANGEOG
 WHATEVER IS ON THIS LOG IS IN THE RELEASE
 
+B50:Erase file in recovery mode made (Does nothing atm)
 B49:syntax error fix
 B48:spelling error
 B47:deleted 2 unneeded files
